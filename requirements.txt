@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+python-dotenv
+boto3
+requests
+pydantic
+strands
+strands-agent
